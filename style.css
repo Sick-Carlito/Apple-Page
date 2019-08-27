@@ -32,10 +32,10 @@ img {
 }
 
 .navbar {
-  background: #b5bdc8; /* Old browsers */
-  background: -moz-radial-gradient(center, ellipse cover, #b5bdc8 0%, #828c95 36%, #28343b 100%); 
-  background: -webkit-radial-gradient(center, ellipse cover, #b5bdc8 0%, #828c95 36%, #28343b 100%); 
-  background: radial-gradient(ellipse at center, #b5bdc8 0%, #828c95 36%, #28343b 100%); 
+  background: #b5bdc8;
+  background: -moz-radial-gradient(center, ellipse cover, #b5bdc8 0%, #828c95 36%, #28343b 100%);
+  background: -webkit-radial-gradient(center, ellipse cover, #b5bdc8 0%, #828c95 36%, #28343b 100%);
+  background: radial-gradient(ellipse at center, #b5bdc8 0%, #828c95 36%, #28343b 100%);
   filter: progid:dximagetransform.microsoft.gradient(startColorstr='#b5bdc8', endColorstr='#28343b', GradientType=1);
   display: inline-block;
   justify-content: center;
@@ -106,13 +106,12 @@ input {
 .footer {
   padding-left: 30px;
   padding-right: 30px;
-  float: left;	
+  float: left;
 }
 
 .footer1 {
   float: left;
   margin-bottom: 50px;
-  
 }
 
 .footer2 {
@@ -121,7 +120,7 @@ input {
   margin-left: 320px;
 }
 
-.image { 
+.image {
   margin-top: 60px;
 }
 
