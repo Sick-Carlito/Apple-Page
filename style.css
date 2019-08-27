@@ -1,132 +1,132 @@
 body {
-	   margin: 1px;
+  margin: 1px;
 }
 
 .sec1 {
-	     height: 550px;
-	     padding-top: 50px;
-	     background: url("images/background1.jpg") 0% 100%;
-	     background-repeat: no-repeat;
-	     width: 100%;
-	     text-align: center;
-	     float: left;
+  height: 550px;
+  padding-top: 50px;
+  background: url("images/background1.jpg") 0% 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  text-align: center;
+  float: left;
 }
 
 .sec2 {
-	     height: 30px;
-	     margin-top: 2px;
-	     display: inline-block;
-	     float: left;
+  height: 30px;
+  margin-top: 2px;
+  display: inline-block;
+  float: left;
 }
 
 .fab {
-	    color: white;
-	    font-size: 27px;
-	    margin-top: 8px;
-	    padding-right: 53px;
+  color: white;
+  font-size: 27px;
+  margin-top: 8px;
+  padding-right: 53px;
 }
 
 img {
-	  max-width: 613%;
-	  max-height: 613%;
+  max-width: 613%;
+  max-height: 613%;
 }
 
 .navbar {
-	      background: #b5bdc8; /* Old browsers */
-          background: -moz-radial-gradient(center, ellipse cover,  #b5bdc8 0%, #828c95 36%, #28343b 100%); /* FF3.6-15 */
-          background: -webkit-radial-gradient(center, ellipse cover,  #b5bdc8 0%,#828c95 36%,#28343b 100%); /* Chrome10-25,Safari5.1-6 */
-          background: radial-gradient(ellipse at center,  #b5bdc8 0%,#828c95 36%,#28343b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-          filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8', endColorstr='#28343b',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-          display: inline-block;
-          justify-content: center;
-	      border-radius: 10px;
-	      text-align: center;
-	      position: relative;
-          margin-top: 30px;
-	      width: 900px;
-	      height: 50px;
-	      padding-left: 50px;
+  background: #b5bdc8; /* Old browsers */
+  background: -moz-radial-gradient(center, ellipse cover,  #b5bdc8 0%, #828c95 36%, #28343b 100%); /* FF3.6-15 */
+  background: -webkit-radial-gradient(center, ellipse cover,  #b5bdc8 0%,#828c95 36%,#28343b 100%); /* Chrome10-25,Safari5.1-6 */
+  background: radial-gradient(ellipse at center,  #b5bdc8 0%,#828c95 36%,#28343b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8', endColorstr='#28343b',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  display: inline-block;
+  justify-content: center;
+  border-radius: 10px;
+  text-align: center;
+  position: relative;
+  margin-top: 30px;
+  width: 900px;
+  height: 50px;
+  padding-left: 50px;
 }
 
 
 .navbar a {
-	        color: white;
-	        text-align: center;
-	        font-weight: bold;
-	        text-decoration: none;
-	        padding: 15px 25px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 15px 25px;
 }
 
 .one {
-	   border-left: solid gray 1px;
+  border-left: solid gray 1px;
 }
 
 .fas {
-	    color: white;
-	    position: absolute;
-	    margin-left: 24px;
-	    font-size: 20px;
-	    margin-top: 20px;
+  color: white;
+  position: absolute;
+  margin-left: 24px;
+  font-size: 20px;
+  margin-top: 20px;
 }
 
 input {
-	    height: 25px;
-	    margin-left: 20px;
-	    width: 90px;
-	    border-radius: 10px;
-	    background-color: #6D6A6A;
-	    border-color: grey;
-	    box-sizing: border-box;
+  height: 25px;
+  margin-left: 20px;
+  width: 90px;
+  border-radius: 10px;
+  background-color: #6D6A6A;
+  border-color: grey;
+  box-sizing: border-box;
 }
 
 .verse {
-	     text-align: center;
-	     color: white;
+  text-align: center;
+  color: white;
 }
 
 .verse h1 {
-	        font-size: 60px;
-	        font-family: "Lato";
+  font-size: 60px;
+  font-family: "Lato";
 }
 
 .verse p {
-	        font-size: 25px;
+  font-size: 25px;
 }
 
 
 .fal {
-	    font-size: 30px;
-	    color: white;
-	    margin-left: 280px;
-	    position: absolute;
+  font-size: 30px;
+  color: white;
+  margin-left: 280px;
+  position: absolute;
 }
 
 .footer {
-	       padding-left: 30px;
-	       padding-right: 30px;
-	       float: left;	
+  padding-left: 30px;
+  padding-right: 30px;
+  float: left;	
 }
 
 .footer1 {
-	        float: left;
-	        margin-bottom: 50px;
-	        margin: 20px;
+  float: left;
+  margin-bottom: 50px;
+  margin: 20px;
 }
 
 .footer2 {
-	       float: right;
-	       margin-top: 13px;
-	       margin-left: 320px;
+  float: right;
+  margin-top: 13px;
+  margin-left: 320px;
 }
 
 .image { 
-	      margin-top: 60px;
+  margin-top: 60px;
 }
 
 .footer p {
-	         font-size: 12px;
+  font-size: 12px;
 }
 
 a {
-	 text-decoration: none;
+  text-decoration: none;
 }
