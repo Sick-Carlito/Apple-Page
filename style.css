@@ -1,9 +1,8 @@
-body{
+body {
 	margin: 0px;
-
 }
 
-.sec1{
+.sec1 {
 	height: 550px;
 	padding-top: 50px;
 	background:url("images/background1.jpg") 0% 100%;
@@ -11,10 +10,9 @@ body{
 	width: 100%;
 	text-align: center;
 	float: left;
-
 }
 
-.sec2{
+.sec2 {
 	height: 30px;
 	margin-top:2px;
 	display: inline-block;
@@ -28,12 +26,12 @@ body{
 	padding-right: 53px;
 }
 
-img{
+img {
 	max-width: 613%;
 	max-height: 613%;
 }
 
-.navbar{
+.navbar {
 	background: #b5bdc8; /* Old browsers */
     background: -moz-radial-gradient(center, ellipse cover,  #b5bdc8 0%, #828c95 36%, #28343b 100%); /* FF3.6-15 */
     background: -webkit-radial-gradient(center, ellipse cover,  #b5bdc8 0%,#828c95 36%,#28343b 100%); /* Chrome10-25,Safari5.1-6 */
@@ -51,7 +49,7 @@ img{
 }
 
 
-.navbar a{
+.navbar a {
 	color: white;
 	text-align: center;
 	font-weight: bold;
@@ -59,11 +57,11 @@ img{
 	padding: 15px 25px;
 }
 
-.one{
+.one {
 	border-left: solid gray 1px;
 }
 
-.fas{
+.fas {
 	color: white;
 	position: absolute;
 	margin-left: 24px;
@@ -71,7 +69,7 @@ img{
 	margin-top: 20px;
 }
 
-input{
+input {
 	height: 25px;
 	margin-left: 20px;
 	width: 90px;
@@ -81,54 +79,54 @@ input{
 	box-sizing: border-box;
 }
 
-.verse{
+.verse {
 	text-align: center;
 	color: white;
 }
 
-.verse h1{
+.verse h1 {
 	font-size: 60px;
 	font-family: "Lato";
 }
 
-.verse p{
+.verse p {
 	font-size: 25px;
 }
 
 
-.fal{
+.fal {
 	font-size: 30px;
 	color: white;
 	margin-left: 280px;
 	position: absolute;
 }
 
-.footer{
+.footer {
 	padding-left: 30px;
 	padding-right: 30px;
 	float: left;	
 }
 
-.footer1{
+.footer1 {
 	float: left;
 	margin-bottom: 50px;
 	margin: 20px;
 }
 
-.footer2{
+.footer2 {
 	float: right;
 	margin-top: 13px;
 	margin-left: 320px;
 }
 
-.image{
+.image { 
 	margin-top: 60px;
 }
 
-.footer p{
+.footer p {
 	font-size: 12px;
 }
 
-a{
+a {
 	text-decoration: none;
 }
