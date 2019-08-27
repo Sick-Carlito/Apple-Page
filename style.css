@@ -27,16 +27,16 @@ body {
 }
 
 img {
-  max-width: 613%;
-  max-height: 613%;
+  max-width: 612%;
+  max-height: 612%;
 }
 
 .navbar {
   background: #b5bdc8; /* Old browsers */
-  background: -moz-radial-gradient(center, ellipse cover,  #b5bdc8 0%, #828c95 36%, #28343b 100%); /* FF3.6-15 */
-  background: -webkit-radial-gradient(center, ellipse cover,  #b5bdc8 0%,#828c95 36%,#28343b 100%); /* Chrome10-25,Safari5.1-6 */
-  background: radial-gradient(ellipse at center,  #b5bdc8 0%,#828c95 36%,#28343b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8', endColorstr='#28343b',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  background: -moz-radial-gradient(center, ellipse cover, #b5bdc8 0%, #828c95 36%, #28343b 100%); 
+  background: -webkit-radial-gradient(center, ellipse cover, #b5bdc8 0%, #828c95 36%, #28343b 100%); 
+  background: radial-gradient(ellipse at center, #b5bdc8 0%, #828c95 36%, #28343b 100%); 
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#b5bdc8', endColorstr='#28343b', GradientType=1);
   display: inline-block;
   justify-content: center;
   border-radius: 10px;
@@ -48,6 +48,9 @@ img {
   padding-left: 50px;
 }
 
+a {
+  text-decoration: none;
+}
 
 .navbar a {
   color: white;
@@ -74,7 +77,7 @@ input {
   margin-left: 20px;
   width: 90px;
   border-radius: 10px;
-  background-color: #6D6A6A;
+  background-color: #6d6a6a;
   border-color: grey;
   box-sizing: border-box;
 }
@@ -93,7 +96,6 @@ input {
   font-size: 25px;
 }
 
-
 .fal {
   font-size: 30px;
   color: white;
@@ -110,7 +112,7 @@ input {
 .footer1 {
   float: left;
   margin-bottom: 50px;
-  margin: 20px;
+  
 }
 
 .footer2 {
@@ -125,8 +127,4 @@ input {
 
 .footer p {
   font-size: 12px;
-}
-
-a {
-  text-decoration: none;
 }
