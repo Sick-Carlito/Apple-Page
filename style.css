@@ -60,13 +60,12 @@ a {
   padding: 15px 25px;
 }
 
-.navbar img{
+.navbar img {
   height: 30px;
   width: 30px;
   margin-top: -10px;
   margin-right: 30px;
 }
-
 
 .one {
   border-right: solid gray 1px;
@@ -91,11 +90,11 @@ input {
   margin-top: 10px;
 }
 
-.fas{
-	color: white;
-	margin-top: 15px;
-	margin-left: 347px;
-	position: absolute;
+.fas {
+  color: white;
+  margin-top: 15px;
+  margin-left: 347px;
+  position: absolute;
 }
 
 .article {
@@ -135,4 +134,5 @@ input {
 
 .footer p {
   font-size: 12px;
+
 }
