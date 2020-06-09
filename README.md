@@ -12,12 +12,12 @@ cd ~/Apple-page
 
 ```
 
-####[Live version](https://raw.githack.com/Sick-Carlito/Apple-Page/Feature-1/index.html)
+[Live version](https://raw.githack.com/Sick-Carlito/Apple-Page/Feature-1/index.html)
 
-##Author
+Author
 @Sick-Carlito
 
-##Email
+Email
 carlb1319@gmail.com
 
-####[Assignment link](https://www.theodinproject.com/courses/html5-and-css3/lessons/backgrounds-and-gradients)
+[Assignment link](https://www.theodinproject.com/courses/html5-and-css3/lessons/backgrounds-and-gradients)
