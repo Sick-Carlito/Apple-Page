@@ -3,10 +3,6 @@ Microverse Solo Project (Building with backgrounds and gradients). It's a simple
 
 
 
-This is a Project that shows features of the Apple page. 
-
-![Alt image](https://github.com/Sick-Carlito/Apple-Page/blob/readme/images/image1.png)
-
 ## How to run this app
 To run it, clone this repository locally and just open the index file on a browser.
 ```
