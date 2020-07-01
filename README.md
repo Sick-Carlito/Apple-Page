@@ -12,7 +12,7 @@ cd ~/Apple-page
 
 ```
 
-[Live version](https://raw.githack.com/Sick-Carlito/Apple-Page/Feature-1/index.html)
+[Live version](https://raw.githack.com/Sick-Carlito/Apple-Page/master/index.html)
 
 ## Author
 
@@ -26,4 +26,4 @@ carlb1319@gmail.com
 [Twitter](https://twitter.com/cbond_420)
 
 
-##[Assignment link](https://www.theodinproject.com/courses/html5-and-css3/lessons/backgrounds-and-gradients)
+## [Assignment link](https://www.theodinproject.com/courses/html5-and-css3/lessons/backgrounds-and-gradients)
